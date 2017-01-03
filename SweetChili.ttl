@@ -1,0 +1,2 @@
+@prefix ex:http://example.org/
+ex:sweetChili ex:consistsOf http://de.wikipedia.org/Chili.
